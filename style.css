@@ -1,0 +1,75 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+}
+
+.topnav p{
+    display:inline;
+}
+div.topnav h1 p input{
+    display:inline-flex;
+    align:right;
+}
+    
+.topnav>span{
+    
+    text-align:right!important;
+}
+
+body#center{
+    background-color:rgba(155, 133, 233, 0.096);
+    background-image:url(../)
+    text-align:left;
+}
+    
+div.topnav{
+    overflow:hidden;
+    background-color:royalblue;
+    color:white;
+}
+div.topnav p {
+    float:right;
+}   
+div.topnav h1{
+    float:left;
+    background-color: royalblue;
+    padding:14px 16px;
+}
+div.topnav h1:hover{
+    background-color:white;
+    color:royalblue;
+}
+
+div.topnav small:hover{
+    background-color:white;
+    color:royalblue;
+
+}
+div.topnav .button:hover{
+ background-color:white;
+ color:royalblue;   
+}
+div.topnav{
+    border-style:dashed;
+}
+div.right input{
+    max-width: max-content;
+}
+.day p{
+    color:rgba(61, 77, 129, 0.753);
+}
+.signup button:hover{
+    background-color:green;
+    color:white;
+
+}
+.right h1:hover{
+    background-color:white;
+    color:royalblue;
+}
+body{
+    background-image: url(../../../Downloads/Blackpink-Lisa-PC-Wallpaper-2021.jpg);
+    background-repeat: no-repeat;
+    
+}
+
